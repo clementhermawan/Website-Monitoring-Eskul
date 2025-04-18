@@ -1,0 +1,6 @@
+INSERT INTO users (nama, email, password, role, eskul_id) VALUES
+('Ahmad', 'ahmad@example.com', 'Ahmad', 'anggota', 1),
+('Budi', 'budi@example.com', 'Budi', 'pengurus', 1),
+('Citra', 'citra@example.com', 'Citra', 'pembina', 1),
+('Dina', 'dina@example.com', 'Dina', 'anggota', 2),
+('Eka', 'eka@example.com', 'Eka', 'pengurus', 2);
